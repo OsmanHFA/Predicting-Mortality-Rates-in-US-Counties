@@ -12,7 +12,7 @@ Using online healthcare datasets, I developed multiple regression models to pred
 2. Lasso Regression Model
 3. Ridge Regression Model
 4. Random Forest Regression Model
-5. Statistical Analysis of Results from all Models
+5. Statistical Analysis and Comparison of Results from all Models
 
 # Project Location: See Jupyter Notebook
 
